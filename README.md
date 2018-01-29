@@ -1,2 +1,3 @@
 # EvoIntelligence
-Evolutionary Intelligence
+
+Developed and Maintained by Qiqi Duan and Hao Tong.
